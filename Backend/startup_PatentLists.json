@@ -1,0 +1,28 @@
+[
+  {
+    "fullname": "Aditya Mondal",
+    "email": "m.adityamondal2003@gmail.com",
+    "phonenumber": "09123708959",
+    "address": "2No Middle Block Road",
+    "inventionTitle": "uuuuuuuu",
+    "inventionDetails": "iiiiiiiiiiiii",
+    "category": "technology",
+    "patentType": "design",
+    "date": "4444-04-04",
+    "status": "Pending",
+    "id": 1
+  },
+  {
+    "fullname": "munshi Mondal",
+    "email": "tech.adityamondal2003@gmail.com",
+    "phonenumber": "09123708959",
+    "address": "2No Middle Block Road",
+    "inventionTitle": "uuuuuuuuuuuu",
+    "inventionDetails": "ooooooooooooooooo",
+    "category": "biomedical",
+    "patentType": "design",
+    "date": "2024-04-04",
+    "status": "Pending",
+    "id": 2
+  }
+]
